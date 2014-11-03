@@ -1,11 +1,11 @@
-# try-dat
+# try-samtools
 
-Try dat using docker
+Try samtools using docker
 
 ## Installation
 
 ```
-docker pull pkfafei/try-samtools
+docker pull pkafei/try-samtools
 ```
 
 ## Usage
